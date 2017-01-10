@@ -2,7 +2,7 @@
 <model ref="r:15c77273-8034-41c8-baf4-66878fe6fc1a(com.dslfoundry.mps.langvis.editor)">
   <persistence version="9" />
   <languages>
-    <use id="18bc6592-03a6-4e29-a83a-7ff23bde13ba" name="jetbrains.mps.lang.editor" version="3" />
+    <use id="18bc6592-03a6-4e29-a83a-7ff23bde13ba" name="jetbrains.mps.lang.editor" version="4" />
     <devkit ref="fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)" />
   </languages>
   <imports>
@@ -32,7 +32,7 @@
   <node concept="24kQdi" id="74GiNTilucd">
     <ref role="1XX52x" to="kdb5:74GiNTikdbZ" resolve="NodeRenderer" />
     <node concept="1iCGBv" id="74GiNTilud2" role="2wV5jI">
-      <ref role="1NtTu8" to="kdb5:74GiNTikdd1" />
+      <ref role="1NtTu8" to="kdb5:74GiNTikdd1" resolve="conceptNode" />
       <node concept="1sVBvm" id="74GiNTilud4" role="1sWHZn">
         <node concept="3F0A7n" id="74GiNTiludb" role="2wV5jI">
           <property role="1Intyy" value="true" />
