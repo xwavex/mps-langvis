@@ -2,7 +2,7 @@
 <model ref="r:45c4fd2e-e33f-4ac8-9699-353e8082a5e5(mps-langvis.build)">
   <persistence version="9" />
   <languages>
-    <use id="798100da-4f0a-421a-b991-71f8c50ce5d2" name="jetbrains.mps.build" version="-1" />
+    <use id="798100da-4f0a-421a-b991-71f8c50ce5d2" name="jetbrains.mps.build" version="0" />
     <use id="0cf935df-4699-4e9c-a132-fa109541cba3" name="jetbrains.mps.build.mps" version="1" />
   </languages>
   <imports>
@@ -153,7 +153,7 @@
     <node concept="2G$12M" id="359UCzqDaRG" role="3989C9">
       <property role="TrG5h" value="mps-langvis" />
       <node concept="1E1JtA" id="359UCzqDaRF" role="2G$12L">
-        <property role="BnDLt" value="true" />
+        <property role="BnDLt" value="false" />
         <property role="TrG5h" value="ConceptStructureVisualization" />
         <property role="3LESm3" value="2af4e160-40bc-45d5-9078-9e2dabc7e7c0" />
         <property role="2GAjPV" value="false" />
